@@ -9,4 +9,5 @@ add_executable(Colecci_n_de_ejercicios_para_nociones_clave_Roberto_Cardenas
     "Proyecto 1/main.cpp"
     "Proyecto 1/main.h"
         "Proyecto 1/Persona.h"
-        "Proyecto 1/Persona.cpp")
+        "Proyecto 1/Persona.cpp"
+        "Proyecto 1/Estudiante.h")

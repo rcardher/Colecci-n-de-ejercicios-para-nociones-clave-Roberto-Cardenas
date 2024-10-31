@@ -5,6 +5,7 @@
 #include "main.h"
 #include <iostream>
 #include "Persona.h"
+#
 
 int suma(int a, int b) {
     return a + b;
@@ -19,8 +20,8 @@ int main() {
     std::cout << "Valor de g después de la función suma: " << g << std::endl;
 
     Persona persona1;
-    persona1.setNombre("Michael");
-    persona1.setEdad(19);
+    persona1.setNombre("Roberto");
+    persona1.setEdad(18);
     persona1.setGenero("Masculino");
     std::cout << "Nombre: " << persona1.getNombre() << std::endl;
     std::cout << "Edad: " << persona1.getEdad() << std::endl;
